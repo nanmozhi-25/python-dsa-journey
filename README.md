@@ -1,17 +1,31 @@
-# Day 01 - Python Basics
+# 🐍 Python Basics
 
-## Programs
-- Calculator
-- Even or Odd
-- Student Grade Calculator
-- Fizz Buzz
+This repository contains my daily Python practice programs.
 
-## Concepts Learned
-- Input and Output
+## 📅 Progress
+
+### Day 1
+- Hello World
 - Variables
-- Arithmetic Operators
-- Comparison Operators
-- if-elif-else
-- for loop
+- Type Casting
+- Swapping Numbers
+- Basic Input & Output
 
-Author: Nanmozhi Tamilarasan
+### Day 2
+- Prime Number Check
+- Fibonacci Series
+- Armstrong Number
+- Palindrome Number
+- Count Vowels in a String
+
+## 🎯 Goal
+- Learn Python from basics to advanced.
+- Upload 5 Python programs every day.
+- Improve problem-solving skills.
+- Prepare for coding interviews and placements.
+
+## 🛠️ Language
+- Python 3
+
+## 👩‍💻 Author
+**Nanmozhi Tamilarasan**
