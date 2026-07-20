@@ -28,6 +28,14 @@ This repository contains my daily Python practice programs.
 * Find the Smallest Element in a List
 * Sum of Elements in a List
 
+### Day 4
+* Leap Year
+* Multiplication Table
+* Count Vowels
+* Count Words
+* Reverse String
+
+
 ## 🎯 Goal
 
 * Learn Python from basics to advanced.
