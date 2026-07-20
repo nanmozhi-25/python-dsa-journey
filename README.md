@@ -17,8 +17,8 @@ This repository contains my daily Python practice programs.
 * Prime Number Check
 * Fibonacci Series
 * Armstrong Number
-* Palindrome Number
-* Count Vowels in a String
+* Factorial of a Number
+* Functions
 
 ### Day 3
 
