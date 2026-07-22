@@ -44,6 +44,14 @@ This repository contains my daily Python practice programs.
 - Find the Longest Word in a Sentence
 - Count Letters, Digits, and Special Characters
 
+### Day 6
+
+- Second Largest Element in a List
+- Reverse a List
+- Remove Duplicates from a List
+- Find Even and Odd Numbers in a List
+- Find Maximum and Minimum Elements
+
 ## 🎯 Goal
 
 - Learn Python from basics to advanced.
@@ -65,6 +73,7 @@ python-dsa-journey/
 ├── Day-03/
 ├── Day-04/
 ├── Day-05/
+├── Day-06/
 └── README.md
 ```
 
