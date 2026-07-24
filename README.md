@@ -60,6 +60,16 @@ This repository contains my daily Python practice programs.
 - Intersection of Two Sets
 - Difference Between Two Sets
 
+# 📅 Day 8 - Python Dictionary Programs
+
+
+1. Create and Display a Dictionary
+2. Add a New Key-Value Pair
+3. Update a Dictionary Value
+4. Delete a Key from a Dictionary
+5. Find the Key with the Maximum Value
+
+
 ## 🎯 Goal
 
 - Learn Python from basics to advanced.
@@ -68,13 +78,14 @@ This repository contains my daily Python practice programs.
 - Build strong problem-solving skills.
 - Prepare for coding interviews and placements.
 
+
 ## 🛠️ Language
 
 - Python 3
 
 ## 📂 Repository Structure
 
-```text
+
 python-dsa-journey/
 ├── Day-01/
 ├── Day-02/
@@ -83,6 +94,7 @@ python-dsa-journey/
 ├── Day-05/
 ├── Day-06/
 ├── Day-07/
+├── Day-08/
 └── README.md
 ```
 
