@@ -52,6 +52,14 @@ This repository contains my daily Python practice programs.
 - Find Even and Odd Numbers in a List
 - Find Maximum and Minimum Elements
 
+### Day 7
+
+- Create and Display a Tuple
+- Find Maximum and Minimum in a Tuple
+- Union of Two Sets
+- Intersection of Two Sets
+- Difference Between Two Sets
+
 ## 🎯 Goal
 
 - Learn Python from basics to advanced.
@@ -74,6 +82,7 @@ python-dsa-journey/
 ├── Day-04/
 ├── Day-05/
 ├── Day-06/
+├── Day-07/
 └── README.md
 ```
 
