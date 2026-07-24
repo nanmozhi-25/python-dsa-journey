@@ -5,7 +5,6 @@ This repository contains my daily Python practice programs.
 ## 📅 Progress
 
 ### Day 1
-
 - Hello World
 - Variables
 - Type Casting
@@ -13,7 +12,6 @@ This repository contains my daily Python practice programs.
 - Basic Input & Output
 
 ### Day 2
-
 - Prime Number Check
 - Fibonacci Series
 - Armstrong Number
@@ -21,7 +19,6 @@ This repository contains my daily Python practice programs.
 - Functions
 
 ### Day 3
-
 - Palindrome Number
 - Count Digits in a Number
 - Find the Largest Element in a List
@@ -29,7 +26,6 @@ This repository contains my daily Python practice programs.
 - Sum of Elements in a List
 
 ### Day 4
-
 - Leap Year
 - Multiplication Table
 - Count Vowels
@@ -37,7 +33,6 @@ This repository contains my daily Python practice programs.
 - Reverse String
 
 ### Day 5
-
 - Anagram Check
 - Character Frequency
 - Remove Duplicate Characters
@@ -45,7 +40,6 @@ This repository contains my daily Python practice programs.
 - Count Letters, Digits, and Special Characters
 
 ### Day 6
-
 - Second Largest Element in a List
 - Reverse a List
 - Remove Duplicates from a List
@@ -53,31 +47,26 @@ This repository contains my daily Python practice programs.
 - Find Maximum and Minimum Elements
 
 ### Day 7
-
 - Create and Display a Tuple
 - Find Maximum and Minimum in a Tuple
 - Union of Two Sets
 - Intersection of Two Sets
 - Difference Between Two Sets
 
-# 📅 Day 8 - Python Dictionary Programs
-
-
-1. Create and Display a Dictionary
-2. Add a New Key-Value Pair
-3. Update a Dictionary Value
-4. Delete a Key from a Dictionary
-5. Find the Key with the Maximum Value
-
+### Day 8
+- Create and Display a Dictionary
+- Add a New Key-Value Pair
+- Update a Dictionary Value
+- Delete a Key from a Dictionary
+- Find the Key with the Maximum Value
 
 ## 🎯 Goal
 
 - Learn Python from basics to advanced.
 - Upload 5 Python programs every day.
 - Improve problem-solving skills.
-- Build strong problem-solving skills.
+- Build strong coding skills.
 - Prepare for coding interviews and placements.
-
 
 ## 🛠️ Language
 
@@ -85,7 +74,7 @@ This repository contains my daily Python practice programs.
 
 ## 📂 Repository Structure
 
-
+```text
 python-dsa-journey/
 ├── Day-01/
 ├── Day-02/
@@ -97,6 +86,14 @@ python-dsa-journey/
 ├── Day-08/
 └── README.md
 ```
+
+## 🚀 Learning Journey
+
+- 📌 Daily Python practice
+- 📌 Hands-on coding exercises
+- 📌 Git & GitHub version control
+- 📌 Problem-solving practice
+- 📌 Placement preparation
 
 ## 👩‍💻 Author
 
