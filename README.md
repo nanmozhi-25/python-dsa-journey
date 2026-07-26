@@ -60,6 +60,14 @@ This repository contains my daily Python practice programs.
 - Delete a Key from a Dictionary
 - Find the Key with the Maximum Value
 
+### Day 9
+
+- Create and Write to a File
+- Read a File
+- Append Data to a File
+- Count the Number of Lines in a File
+- Count Words in a File
+
 ## 🎯 Goal
 
 - Learn Python from basics to advanced.
@@ -84,8 +92,10 @@ python-dsa-journey/
 ├── Day-06/
 ├── Day-07/
 ├── Day-08/
+├── Day-09/
 └── README.md
 ```
+
 
 ## 🚀 Learning Journey
 
