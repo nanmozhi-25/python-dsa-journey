@@ -68,6 +68,14 @@ This repository contains my daily Python practice programs.
 - Count the Number of Lines in a File
 - Count Words in a File
 
+### Day 10
+
+- Handle Division by Zero
+- Handle Invalid Input
+- Handle File Not Found
+- Handle Index Error
+- Using Finally Block
+
 ## 🎯 Goal
 
 - Learn Python from basics to advanced.
@@ -93,6 +101,7 @@ python-dsa-journey/
 ├── Day-07/
 ├── Day-08/
 ├── Day-09/
+├── Day-10/
 └── README.md
 ```
 
