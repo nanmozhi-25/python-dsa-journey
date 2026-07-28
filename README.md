@@ -76,6 +76,14 @@ This repository contains my daily Python practice programs.
 - Handle Index Error
 - Using Finally Block
 
+### Day 11
+
+- Create a Class and Object
+- Constructor (__init__)
+- Inheritance
+- Method Overriding
+- Encapsulation
+
 ## 🎯 Goal
 
 - Learn Python from basics to advanced.
@@ -102,9 +110,9 @@ python-dsa-journey/
 ├── Day-08/
 ├── Day-09/
 ├── Day-10/
+├── Day-11/
 └── README.md
 ```
-
 
 ## 🚀 Learning Journey
 
