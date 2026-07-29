@@ -84,6 +84,14 @@ This repository contains my daily Python practice programs.
 - Method Overriding
 - Encapsulation
 
+### Day 12
+
+- Factorial Using Recursion
+- Fibonacci Series Using Recursion
+- Sum of Digits Using Recursion
+- Power of a Number Using Recursion
+- GCD of Two Numbers Using Recursion
+
 ## 🎯 Goal
 
 - Learn Python from basics to advanced.
@@ -111,6 +119,7 @@ python-dsa-journey/
 ├── Day-09/
 ├── Day-10/
 ├── Day-11/
+├── Day-12/
 └── README.md
 ```
 
