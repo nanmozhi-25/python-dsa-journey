@@ -92,6 +92,14 @@ This repository contains my daily Python practice programs.
 - Power of a Number Using Recursion
 - GCD of Two Numbers Using Recursion
 
+### Day 13
+
+- Linear Search
+- Binary Search
+- Find Maximum Element
+- Find Minimum Element
+- Count Occurrences of an Element
+
 ## 🎯 Goal
 
 - Learn Python from basics to advanced.
@@ -120,6 +128,7 @@ python-dsa-journey/
 ├── Day-10/
 ├── Day-11/
 ├── Day-12/
+├── Day-13/
 └── README.md
 ```
 
