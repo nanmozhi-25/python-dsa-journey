@@ -1,4 +1,4 @@
-# 🐍 Python Basics
+## 🐍 Python Basics
 
 This repository contains my daily Python practice programs.
 
@@ -61,7 +61,6 @@ This repository contains my daily Python practice programs.
 - Find the Key with the Maximum Value
 
 ### Day 9
-
 - Create and Write to a File
 - Read a File
 - Append Data to a File
@@ -69,7 +68,6 @@ This repository contains my daily Python practice programs.
 - Count Words in a File
 
 ### Day 10
-
 - Handle Division by Zero
 - Handle Invalid Input
 - Handle File Not Found
@@ -77,7 +75,6 @@ This repository contains my daily Python practice programs.
 - Using Finally Block
 
 ### Day 11
-
 - Create a Class and Object
 - Constructor (__init__)
 - Inheritance
@@ -85,7 +82,6 @@ This repository contains my daily Python practice programs.
 - Encapsulation
 
 ### Day 12
-
 - Factorial Using Recursion
 - Fibonacci Series Using Recursion
 - Sum of Digits Using Recursion
@@ -93,12 +89,18 @@ This repository contains my daily Python practice programs.
 - GCD of Two Numbers Using Recursion
 
 ### Day 13
-
 - Linear Search
 - Binary Search
 - Find Maximum Element
 - Find Minimum Element
 - Count Occurrences of an Element
+
+### Day 14
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Ascending Order
+- Descending Order
 
 ## 🎯 Goal
 
@@ -129,6 +131,7 @@ python-dsa-journey/
 ├── Day-11/
 ├── Day-12/
 ├── Day-13/
+├── Day-14/
 └── README.md
 ```
 
