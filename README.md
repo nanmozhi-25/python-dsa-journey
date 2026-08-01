@@ -102,6 +102,14 @@ This repository contains my daily Python practice programs.
 - Ascending Order
 - Descending Order
 
+### Day 15
+
+- Right Triangle Star Pattern
+- Inverted Triangle Pattern
+- Pyramid Pattern
+- Number Triangle Pattern
+- Floyd's Triangle
+
 ## 🎯 Goal
 
 - Learn Python from basics to advanced.
@@ -132,6 +140,7 @@ python-dsa-journey/
 ├── Day-12/
 ├── Day-13/
 ├── Day-14/
+├── Day-15/
 └── README.md
 ```
 
