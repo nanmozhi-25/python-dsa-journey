@@ -110,6 +110,14 @@ This repository contains my daily Python practice programs.
 - Number Triangle Pattern
 - Floyd's Triangle
 
+### Day 16
+
+- Function with Arguments
+- Function with Return Value
+- Lambda Function
+- Using map()
+- Using filter()
+
 ## 🎯 Goal
 
 - Learn Python from basics to advanced.
@@ -141,6 +149,7 @@ python-dsa-journey/
 ├── Day-13/
 ├── Day-14/
 ├── Day-15/
+├── Day-16/
 └── README.md
 ```
 
