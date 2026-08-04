@@ -118,6 +118,14 @@ This repository contains my daily Python practice programs.
 - Using map()
 - Using filter()
 
+### Day 17
+
+- Import the math Module
+- Import the random Module
+- Import Specific Functions
+- Create a Custom Module
+- Use a Custom Module
+
 ## 🎯 Goal
 
 - Learn Python from basics to advanced.
@@ -150,6 +158,7 @@ python-dsa-journey/
 ├── Day-14/
 ├── Day-15/
 ├── Day-16/
+├── Day-17/
 └── README.md
 ```
 
