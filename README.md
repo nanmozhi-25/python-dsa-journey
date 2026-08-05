@@ -125,6 +125,13 @@ This repository contains my daily Python practice programs.
 - Import Specific Functions
 - Create a Custom Module
 - Use a Custom Module
+### Day 18
+
+- Create a File
+- Rename a File
+- Delete a File
+- Create a Directory
+- List Files in a Directory
 
 ## 🎯 Goal
 
@@ -159,6 +166,7 @@ python-dsa-journey/
 ├── Day-15/
 ├── Day-16/
 ├── Day-17/
+├── Day-18/
 └── README.md
 ```
 
