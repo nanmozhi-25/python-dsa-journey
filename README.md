@@ -133,6 +133,14 @@ This repository contains my daily Python practice programs.
 - Create a Directory
 - List Files in a Directory
 
+### Day 19
+
+- Display Current Date and Time
+- Display Current Date
+- Format Date and Time
+- Calculate Difference Between Two Dates
+- Display a Calendar
+
 ## 🎯 Goal
 
 - Learn Python from basics to advanced.
@@ -167,6 +175,7 @@ python-dsa-journey/
 ├── Day-16/
 ├── Day-17/
 ├── Day-18/
+├── Day-19/
 └── README.md
 ```
 
