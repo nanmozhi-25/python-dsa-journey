@@ -141,6 +141,14 @@ This repository contains my daily Python practice programs.
 - Calculate Difference Between Two Dates
 - Display a Calendar
 
+### Day 20
+
+- Simple Calculator
+- Number Guessing Game
+- Password Generator
+- To-Do List
+- Quiz Game
+
 ## 🎯 Goal
 
 - Learn Python from basics to advanced.
@@ -152,6 +160,8 @@ This repository contains my daily Python practice programs.
 ## 🛠️ Language
 
 - Python 3
+
+## 📂 Repository Structure
 
 ## 📂 Repository Structure
 
@@ -176,6 +186,7 @@ python-dsa-journey/
 ├── Day-17/
 ├── Day-18/
 ├── Day-19/
+├── Day-20/
 └── README.md
 ```
 
