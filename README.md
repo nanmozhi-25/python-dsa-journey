@@ -149,6 +149,14 @@ This repository contains my daily Python practice programs.
 - To-Do List
 - Quiz Game
 
+### Day 21
+
+- Two Sum
+- Move Zeroes
+- Remove Duplicates from Sorted Array
+- Find Missing Number
+- Best Time to Buy and Sell Stock
+
 ## 🎯 Goal
 
 - Learn Python from basics to advanced.
@@ -163,9 +171,6 @@ This repository contains my daily Python practice programs.
 
 ## 📂 Repository Structure
 
-## 📂 Repository Structure
-
-```text
 python-dsa-journey/
 ├── Day-01/
 ├── Day-02/
@@ -187,8 +192,8 @@ python-dsa-journey/
 ├── Day-18/
 ├── Day-19/
 ├── Day-20/
+├── Day-21/
 └── README.md
-```
 
 ## 🚀 Learning Journey
 
